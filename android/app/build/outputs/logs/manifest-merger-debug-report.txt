@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/e64306d9353e417902885601c28bdcfd/react-native-0.55.4/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/af3a00594ce84f7d2543ded7297db82d/appcompat-v7-23.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.1] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/b617999d96ea79b88d0adb6ade65f8e0/support-v4-23.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/4def4a15ed6f24a988ba6eee4c5f7b24/textlayoutbuilder-1.0.0/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/303c31760f137954383d615b1e09975b/fresco-1.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/e8ca6ff8fe65243e8dc4bb0b319113cc/imagepipeline-okhttp3-1.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/d7da5af70fc69624f9f550b4a99a5a8e/soloader-0.1.0/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/3a92520750a22d97c258e92feb2cc0fa/android-jsc-r174650/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/f077ca024af7877d15c8b14bc12e27b4/drawee-1.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/4ba26a968253966f0065629e1c4c6b2c/imagepipeline-1.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/3ff257655b293801bccbc63cbffd0346/imagepipeline-base-1.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/002a082d7b0141549f514e368bc749df/fbcore-1.3.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:2:5-24
+		INJECTED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/e64306d9353e417902885601c28bdcfd/react-native-0.55.4/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/e64306d9353e417902885601c28bdcfd/react-native-0.55.4/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/e64306d9353e417902885601c28bdcfd/react-native-0.55.4/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/e64306d9353e417902885601c28bdcfd/react-native-0.55.4/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/af3a00594ce84f7d2543ded7297db82d/appcompat-v7-23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/af3a00594ce84f7d2543ded7297db82d/appcompat-v7-23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/b617999d96ea79b88d0adb6ade65f8e0/support-v4-23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/b617999d96ea79b88d0adb6ade65f8e0/support-v4-23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/d7da5af70fc69624f9f550b4a99a5a8e/soloader-0.1.0/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/d7da5af70fc69624f9f550b4a99a5a8e/soloader-0.1.0/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/3a92520750a22d97c258e92feb2cc0fa/android-jsc-r174650/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/3a92520750a22d97c258e92feb2cc0fa/android-jsc-r174650/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.susys.MainActivity
+ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/e64306d9353e417902885601c28bdcfd/react-native-0.55.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/e64306d9353e417902885601c28bdcfd/react-native-0.55.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/af3a00594ce84f7d2543ded7297db82d/appcompat-v7-23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/af3a00594ce84f7d2543ded7297db82d/appcompat-v7-23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/b617999d96ea79b88d0adb6ade65f8e0/support-v4-23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/b617999d96ea79b88d0adb6ade65f8e0/support-v4-23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/4def4a15ed6f24a988ba6eee4c5f7b24/textlayoutbuilder-1.0.0/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/4def4a15ed6f24a988ba6eee4c5f7b24/textlayoutbuilder-1.0.0/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/303c31760f137954383d615b1e09975b/fresco-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/303c31760f137954383d615b1e09975b/fresco-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/e8ca6ff8fe65243e8dc4bb0b319113cc/imagepipeline-okhttp3-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/e8ca6ff8fe65243e8dc4bb0b319113cc/imagepipeline-okhttp3-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/d7da5af70fc69624f9f550b4a99a5a8e/soloader-0.1.0/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/d7da5af70fc69624f9f550b4a99a5a8e/soloader-0.1.0/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/f077ca024af7877d15c8b14bc12e27b4/drawee-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/f077ca024af7877d15c8b14bc12e27b4/drawee-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/4ba26a968253966f0065629e1c4c6b2c/imagepipeline-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/4ba26a968253966f0065629e1c4c6b2c/imagepipeline-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/3ff257655b293801bccbc63cbffd0346/imagepipeline-base-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/3ff257655b293801bccbc63cbffd0346/imagepipeline-base-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/002a082d7b0141549f514e368bc749df/fbcore-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/tuannt/.gradle/caches/transforms-2/files-2.1/002a082d7b0141549f514e368bc749df/fbcore-1.3.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

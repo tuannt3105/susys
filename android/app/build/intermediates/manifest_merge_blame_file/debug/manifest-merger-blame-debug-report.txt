@@ -1,0 +1,63 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.source"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="22" />
+9-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+12-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:5:5-77
+12-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:5:22-75
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16
+17    <application
+17-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:7:5-24:19
+18        android:name="com.susys.MainApplication"
+18-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:8:7-38
+19        android:allowBackup="false"
+19-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:11:7-34
+20        android:debuggable="true"
+21        android:icon="@mipmap/ic_launcher"
+21-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:10:7-41
+22        android:label="@string/app_name"
+22-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:9:7-39
+23        android:testOnly="true"
+24        android:theme="@style/AppTheme" >
+24-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:12:7-38
+25        <activity
+25-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:13:7-22:18
+26            android:name="com.susys.MainActivity"
+26-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:14:9-37
+27            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+27-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:16:9-79
+28            android:label="@string/app_name"
+28-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:15:9-41
+29            android:windowSoftInputMode="adjustResize" >
+29-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:17:9-51
+30            <intent-filter>
+30-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:18:9-21:25
+31                <action android:name="android.intent.action.MAIN" />
+31-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:19:13-65
+31-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:19:21-62
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:20:13-73
+33-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:20:23-70
+34            </intent-filter>
+35        </activity>
+36        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+36-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:23:7-84
+36-->/Users/tuannt/DATA/05.Projects/04.ReactNative/SuMobile/android/app/src/main/AndroidManifest.xml:23:17-81
+37    </application>
+38
+39</manifest>
